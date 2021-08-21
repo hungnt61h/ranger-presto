@@ -124,3 +124,4 @@ Installation Process
    If the install.sh file does not exists, 
        Execute ./enable-<component>-plugin.sh
 
+Special thank to [Aakash Nand](https://github.com/aakashnand)
